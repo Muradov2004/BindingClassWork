@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingClassWork", "BindingClassWork\BindingClassWork.csproj", "{6634EB12-C150-4C03-9783-F5B987D5382B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6634EB12-C150-4C03-9783-F5B987D5382B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6634EB12-C150-4C03-9783-F5B987D5382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6634EB12-C150-4C03-9783-F5B987D5382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6634EB12-C150-4C03-9783-F5B987D5382B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D34B5FD-5763-4679-A7E0-648586A7160C}
+	EndGlobalSection
+EndGlobal
